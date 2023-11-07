@@ -73,7 +73,7 @@ featured: true
     </div>
     <div class="row">
         <div class="col-12">
-            {% include figure.html path="assets/img/cle/cle10.jpg" class="img-fluid z-depth-1 image" zoomable=true %}
+            {% include figure.html path="assets/img/cle/cle10.jpg" class="img-fluid z-depth-1 image" zoomable=false %}
         </div>
     </div>
 </div>
