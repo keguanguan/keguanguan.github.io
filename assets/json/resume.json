@@ -38,15 +38,15 @@
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Nanyang Technological University",
+      "url": "https://www.ntu.edu.sg/",
+      "area": "Mechanical Engineering",
+      "studyType": "B.Eng.",
+      "startDate": "2020-08-01",
+      "endDate": "2024-05-30",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Specialized in Aeronautical Engineering"
       ]
     }
   ],
