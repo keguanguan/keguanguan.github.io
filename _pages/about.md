@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https:\\keguanguan.github.io'>Hi</a>. Student @Nanyang Technological University
+subtitle: Student @Nanyang Technological University
 
 profile:
   align: right
@@ -25,4 +25,4 @@ I am Guanguan.
 My favorite writer at this moment is [J.D. Salinger](https://en.wikipedia.org/wiki/J._D._Salinger). 
 
 You can also have a look at my [github](https://github.com/keguanguan) portfolio though I am not a coder at all.
-You can also download my academic [CV](assests/pdf/Guanguan_Ke_CV.pdf) here. 
+You can also download my academic [CV](/assets/pdf/Guanguan_Ke_CV.pdf) here. 
