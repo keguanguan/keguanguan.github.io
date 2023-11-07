@@ -25,3 +25,4 @@ I am Guanguan.
 My favorite writer at this moment is [J.D. Salinger](https://en.wikipedia.org/wiki/J._D._Salinger). 
 
 You can also have a look at my [github](https://github.com/keguanguan) portfolio though I am not a coder at all.
+You can also download my academic [CV](assests/pdf/Guanguan_Ke_CV.pdf) here. 
