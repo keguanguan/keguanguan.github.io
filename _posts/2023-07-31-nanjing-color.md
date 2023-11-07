@@ -4,7 +4,7 @@ title: Nanjing II
 date: 2023-07-31
 description: SONY α6400, AMBER T400
 tags:  digital film color photography 
-thumbnail: assets/img/nj_color/nj4.jpg
+thumbnail: assets/img/nj_color/njc4.jpg
 featured: false
 ---
 
