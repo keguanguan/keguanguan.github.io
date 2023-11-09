@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <Happy Halloween.>
+title: Happy Halloween.
 date: 2023-10-31
 description: SONY α6400, photo by zxy
 tags: black_and_white film photography 

@@ -4,7 +4,7 @@ title: Oppenheimer (film)
 date: 2023-08-15
 description: Scanned IMAX 70mm films, from online resources
 tags: film 
-thumbnail: assets/img/opphenheimer/week1-4.jpg
+thumbnail: assets/img/oppenheimer/week1-4.jpg
 featured: false
 ---
 
